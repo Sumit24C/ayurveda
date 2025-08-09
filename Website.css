@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {}
+
+.decode {
+    font-size: 30px;
+    padding-left: 20px;
+    margin: 10px;
+}
+
+.home {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    background-color: rgb(170, 170, 223);
+    font-size: 22px;
+    padding-left: 13px;
+    height: 49px;
+}
+
+.home a {
+    text-decoration: none;
+    color: black;
+}
+
+.home a:hover {
+    color: white;
+    font-size: 20px;
+}
+
+
+.firstsection {
+    margin-top: 23px;
+}
+
+.firstsection h1 {
+    font-size: 22px;
+    padding: 0 10px;
+}
+
+.para {
+    padding: 13px;
+}
+
+.What {
+    font-size: 30px;
+    padding: 10px;
+}
+
+.secondsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.take-quiz {
+    margin: 0 12px;
+}
+
+.section3 h1 {
+    font-size: 19px;
+    padding: 0 12px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.thirdsection {
+    padding: 0 19px;
+}
+
+.fourthsection {
+    padding: 0 19px;
+}
+
+.section4 h1 {
+    font-size: 19px;
+    padding: 0 12px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.section5 {
+    margin-top: 30px;
+    padding: 0 19px;
+}
+
+.fifthsection div {
+    margin-top: 9px;
+}
+
+.sixthsection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-size: 29px;
+}
+
+
+.sixthsection li {
+    margin: 21px 0;
+}
+
+.sixthsection li a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+.sixthsection li a:hover {
+    color: rgb(21, 162, 228);
+    font-size: 31px;
+}
+
+.section7 {}
+
+.extra {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 13px;
+}
+
+.virudh {
+    font-size: 21px;
+    font-weight: bold;
+    margin: 9px 13px;
+}
+
+.description div {
+    margin-top: 3px;
+    padding: 0 13px;
+}
+
+.example {
+    font-size: 21px;
+    font-weight: bold;
+    margin: 9px 13px;
+}
+
+.list {
+    margin-top: 3px;
+    padding: 0 13px;
+    margin-bottom: 19px;
+}
+
+.list div {
+    margin-top: 3px;
+    padding: 0 13px;
+}
+
+.footer1 {
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding-top: 19px;
+}
+
+.footer1 div {
+    margin-top: 10px;
+    padding: 0 13px;
+}
+
+.Upper {
+    margin-top: 23px;
+}
